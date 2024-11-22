@@ -11,9 +11,11 @@ namespace _509._Fibonacci_Number
         // Implementing By Recursion
         public int Fib(int n)
         {
-            int f = 0;
-            
-            return f;
+            if (n == 1 || n == 2)
+                return 1;
+            if (n == 0)
+                return 0;
+            return Fib(n - 1) + Fib(n - 2);
         }
 
         // Implementing By Iterating
