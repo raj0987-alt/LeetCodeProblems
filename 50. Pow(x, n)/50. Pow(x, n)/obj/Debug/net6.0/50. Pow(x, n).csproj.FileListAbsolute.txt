@@ -1,0 +1,14 @@
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\bin\Debug\net6.0\50. Pow(x, n).exe
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\bin\Debug\net6.0\50. Pow(x, n).deps.json
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\bin\Debug\net6.0\50. Pow(x, n).runtimeconfig.json
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\bin\Debug\net6.0\50. Pow(x, n).dll
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\bin\Debug\net6.0\50. Pow(x, n).pdb
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\50. Pow(x, n).GeneratedMSBuildEditorConfig.editorconfig
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\50. Pow(x, n).AssemblyInfoInputs.cache
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\50. Pow(x, n).AssemblyInfo.cs
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\50. Pow(x, n).csproj.CoreCompileInputs.cache
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\50. Pow(x, n).dll
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\refint\50. Pow(x, n).dll
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\50. Pow(x, n).pdb
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\50. Pow(x, n).genruntimeconfig.cache
+D:\LCP\Leet Code Problems\50. Pow(x, n)\50. Pow(x, n)\obj\Debug\net6.0\ref\50. Pow(x, n).dll

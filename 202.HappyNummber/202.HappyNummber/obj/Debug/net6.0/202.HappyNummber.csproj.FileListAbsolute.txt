@@ -1,0 +1,14 @@
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\bin\Debug\net6.0\202.HappyNummber.exe
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\bin\Debug\net6.0\202.HappyNummber.deps.json
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\bin\Debug\net6.0\202.HappyNummber.runtimeconfig.json
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\bin\Debug\net6.0\202.HappyNummber.dll
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\bin\Debug\net6.0\202.HappyNummber.pdb
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\202.HappyNummber.GeneratedMSBuildEditorConfig.editorconfig
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\202.HappyNummber.AssemblyInfoInputs.cache
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\202.HappyNummber.AssemblyInfo.cs
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\202.HappyNummber.csproj.CoreCompileInputs.cache
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\202.HappyNummber.dll
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\refint\202.HappyNummber.dll
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\202.HappyNummber.pdb
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\202.HappyNummber.genruntimeconfig.cache
+D:\LCP\Leet Code Problems\202.HappyNummber\202.HappyNummber\obj\Debug\net6.0\ref\202.HappyNummber.dll
